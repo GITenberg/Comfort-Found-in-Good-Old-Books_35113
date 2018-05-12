@@ -1,0 +1,27 @@
+_repo: Comfort-Found-in-Good-Old-Books_35113
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35113-h/images/coverdale_bible.jpg
+creator:
+  author:
+    agent_name: Fitch, George Hamlin
+    birthdate: 1852
+    deathdate: 1925
+    gutenberg_agent_id: '8551'
+    url: http://www.gutenberg.org/2009/agents/8551
+description: ''
+gutenberg_issued: '2011-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35113'
+  lccn: '11017676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Books and reading'
+title: Comfort Found in Good Old Books
+url: http://www.gutenberg.org/ebooks/35113
